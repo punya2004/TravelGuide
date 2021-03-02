@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  padding: 0.5rem 0.5rem;
+  margin: 1rem;
+  background-color: #990033;
+  color: white;
+}
+
+.displaylist {
+  list-style: none;
+}
+
+.displayitem {
+  border: 1px solid;
+  border-radius: 0.5rem;
+  margin: 0.5rem;
+  padding: 0.5rem 0.5rem;
+  background-color: #990033;
+  color: white;
+}
